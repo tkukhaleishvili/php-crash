@@ -25,3 +25,4 @@ The video covers all the basic things about PHP.
     - Working with mysql
  - Composer and autoloading
 "# php-crash" 
+"# php-crashs" 
